@@ -1,2 +1,9 @@
-package proyecto;public class Toppings {
+package proyecto;
+
+public class Toppings {
+    public Toppings(String salsa) {
+
+
+    }
+
 }
